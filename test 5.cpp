@@ -176,5 +176,5 @@ int main ()
 				printf ("khong hop le");
 				break;
 		 } 
-	} while (a>0 && a<9); 
+	} while (1); 
  } 
