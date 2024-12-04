@@ -148,5 +148,5 @@ int main()
 			  printf ("khong ton tai");
 			  break;	
 		}
-	} while (a>0 && a<9);
+	} while (1);
 }
